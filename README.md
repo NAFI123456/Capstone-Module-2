@@ -208,3 +208,5 @@ Recommended approach:
 ## Data Visualization
 
 https://public.tableau.com/app/profile/muhammad.nafi.adziq/viz/Capstone2DataVisualization/Dashboard1?publish=yes
+
+![Alt Text](https://public.tableau.com/views/Capstone2DataVisualization/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
