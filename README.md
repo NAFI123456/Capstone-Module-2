@@ -5,7 +5,7 @@
  
 ## Problem Formula
 - What is customer behaviour?
-- How much is the supermarket income according to customer categories? 
+- Data distribution supermarket income according to customer categories? 
 - Customers income according to customer categories?
 - The campaign is most famous on which category?
 - Is the website effectiveness comparable to any other shopping methods?
@@ -133,7 +133,7 @@ Recommended approach:
 
 - Make an offer of customer subscription, targeting the customer with lower income by adding specialized offer of free products, discounts, etc.
 
-### 2. Store Income Based on Categories
+### 2. Data distribution of store Income Based on Categories
 
 #### A. Average Store Income Based off the column category ['Marital_Status']
 
